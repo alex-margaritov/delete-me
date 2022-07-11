@@ -1,0 +1,6 @@
+#signUpForm {
+  display: grid;
+  grid-template-columns: max-content 240px;
+  row-gap: 16px;
+  column-gap: 24px;
+}
